@@ -1,0 +1,5 @@
+print('*' * 22)
+print('*','A.Giảm cân         *')
+print('*','B.Duy trì hiện tại *')     
+print('*','C.Tăng cân         *')
+print('*' * 22)
